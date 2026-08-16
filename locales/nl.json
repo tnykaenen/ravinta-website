@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "eyebrow": "JOUW PERSOONLIJKE EETCOACH",
+    "headline": "Eet goed, waar je ook bent.",
+    "subheadline": "Vertel Ravinta je dieet, je doel en je budget — krijg binnen enkele seconden een persoonlijk weekmenu, recepten en een echte boodschappenlijst.",
+    "cta": "Ravinta gebruiken"
+  },
+  "features": {
+    "title": "Gemaakt om echt gebruikt te worden",
+    "f1": { "title": "Écht persoonlijk", "body": "Dieetstijl, doelen, allergieën en smaak bepalen elk plan — niet gefilterd uit een algemene lijst." },
+    "f2": { "title": "Macro's die kloppen", "body": "Elke maaltijd toont eiwitten, koolhydraten en vetten — je week telt op tot een echt dagdoel op basis van jouw lichaam en activiteitsniveau." },
+    "f3": { "title": "Budgetbewust", "body": "Stel in wat je wilt uitgeven. Ravinta bouwt een week die daarbij past — en zegt het als dat niet lukt." },
+    "f4": { "title": "Kent je voorraadkast", "body": "Voorraadproducten zoals havermout en rijst worden apart gemarkeerd, zodat je niet opnieuw koopt wat je al hebt." },
+    "f5": { "title": "Standaard seizoensgebonden", "body": "Ravinta kiest automatisch, elke week, wat écht in het seizoen is waar jij woont." },
+    "f6": { "title": "Echte prijzen, 11 landen", "body": "Actuele boodschappenprijzen in het VK, Ierland, Nederland, België, Zwitserland, Duitsland, Italië, Polen, Bulgarije, Noorwegen en Denemarken. Elders eerlijke schattingen." }
+  },
+  "pricing": {
+    "title": "Eenvoudige prijzen",
+    "monthly": "€ 6,99 / maand",
+    "yearly": "€ 54,99 / jaar",
+    "yearlyNote": "(~€ 4,58/maand)",
+    "cta": "Begin je eerste week",
+    "note": "Elk moment opzegbaar."
+  },
+  "footer": {
+    "privacy": "Privacybeleid",
+    "contact": "Contact",
+    "rights": "Alle rechten voorbehouden."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "eyebrow": "YOUR PERSONAL EATING COACH",
+    "headline": "Eat well, wherever you are.",
+    "subheadline": "Tell Ravinta your diet, your goal, and your budget — get a personalized weekly meal plan, recipes, and a real shopping list in seconds.",
+    "cta": "Get Ravinta"
+  },
+  "features": {
+    "title": "Built to actually get used",
+    "f1": { "title": "Truly personalized", "body": "Diet style, goals, allergies, and taste shape every plan — not filtered from a generic list." },
+    "f2": { "title": "Macros that make sense", "body": "Every meal shows protein, carbs, and fat — and your week adds up to a real daily target based on your body and activity level." },
+    "f3": { "title": "Budget-aware", "body": "Set what you want to spend. Ravinta builds a week that fits it — and tells you if it doesn't." },
+    "f4": { "title": "Knows your cupboard", "body": "Pantry staples like oats and rice are flagged separately, so you stop re-buying what you already own." },
+    "f5": { "title": "Seasonal by default", "body": "Ravinta favors what's actually in season where you live, automatically, every week." },
+    "f6": { "title": "Real prices, 11 countries", "body": "Live grocery pricing across the UK, Ireland, Netherlands, Belgium, Switzerland, Germany, Italy, Poland, Bulgaria, Norway, and Denmark. Everywhere else, honest estimates." }
+  },
+  "pricing": {
+    "title": "Simple pricing",
+    "monthly": "€6.99 / month",
+    "yearly": "€54.99 / year",
+    "yearlyNote": "(~€4.58/month)",
+    "cta": "Start your first week",
+    "note": "Cancel anytime."
+  },
+  "footer": {
+    "privacy": "Privacy Policy",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  }
+}

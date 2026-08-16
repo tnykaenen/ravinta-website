@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "eyebrow": "TWÓJ OSOBISTY TRENER ŻYWIENIOWY",
+    "headline": "Jedz dobrze, gdziekolwiek jesteś.",
+    "subheadline": "Podaj swoją dietę, cel i budżet — Ravinta przygotuje spersonalizowany plan posiłków na tydzień, przepisy i prawdziwą listę zakupów w kilka sekund.",
+    "cta": "Wypróbuj Ravinta"
+  },
+  "features": {
+    "title": "Stworzone, by naprawdę było używane",
+    "f1": { "title": "Naprawdę spersonalizowane", "body": "Styl diety, cele, alergie i gusta kształtują każdy plan — nie filtrowane z ogólnej listy." },
+    "f2": { "title": "Makroskładniki, które się zgadzają", "body": "Każdy posiłek pokazuje białko, węglowodany i tłuszcze — tydzień sumuje się do realnego dziennego celu opartego na Twoim ciele i poziomie aktywności." },
+    "f3": { "title": "Świadome budżetu", "body": "Ustaw, ile chcesz wydać. Ravinta zbuduje tydzień, który się w tym zmieści — i powie, jeśli się nie zmieści." },
+    "f4": { "title": "Zna Twoją spiżarnię", "body": "Produkty spiżarniane jak płatki owsiane i ryż są oznaczane osobno, żebyś nie kupował ponownie tego, co już masz." },
+    "f5": { "title": "Sezonowo domyślnie", "body": "Ravinta automatycznie preferuje to, co naprawdę jest sezonowe tam, gdzie mieszkasz, co tydzień." },
+    "f6": { "title": "Prawdziwe ceny, 11 krajów", "body": "Aktualne ceny w sklepach w Wielkiej Brytanii, Irlandii, Holandii, Belgii, Szwajcarii, Niemczech, Włoszech, Polsce, Bułgarii, Norwegii i Danii. Gdzie indziej — rzetelne szacunki." }
+  },
+  "pricing": {
+    "title": "Proste ceny",
+    "monthly": "6,99 € / mies.",
+    "yearly": "54,99 € / rok",
+    "yearlyNote": "(~4,58 €/mies.)",
+    "cta": "Zacznij swój pierwszy tydzień",
+    "note": "Anuluj w każdej chwili."
+  },
+  "footer": {
+    "privacy": "Polityka prywatności",
+    "contact": "Kontakt",
+    "rights": "Wszelkie prawa zastrzeżone."
+  }
+}

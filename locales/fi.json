@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "eyebrow": "OMA RUOKAVALMENTAJASI",
+    "headline": "Syö hyvin, missä ikinä oletkin.",
+    "subheadline": "Ravinta kysyy ruokavaliosi, tavoitteesi ja budjettisi — saat henkilökohtaisen viikkosuunnitelman, reseptit ja oikean ostoslistan sekunneissa.",
+    "cta": "Hanki Ravinta"
+  },
+  "features": {
+    "title": "Tehty oikeasti käytettäväksi",
+    "f1": {
+      "title": "Aidosti henkilökohtainen",
+      "body": "Ruokavalio, tavoitteet, allergiat ja maku muovaavat jokaisen suunnitelman — ei suodatettu geneerisestä listasta."
+    },
+    "f2": {
+      "title": "Makrot jotka täsmäävät",
+      "body": "Jokainen ateria näyttää proteiinin, hiilihydraatit ja rasvan — viikon summa vastaa oikeaa päivätavoitetta kehosi ja aktiivisuustasosi mukaan."
+    },
+    "f3": {
+      "title": "Budjettitietoinen",
+      "body": "Aseta summa jonka haluat käyttää. Ravinta rakentaa viikon joka sopii siihen — ja kertoo jos ei sovi."
+    },
+    "f4": {
+      "title": "Tuntee kaappisi",
+      "body": "Pitkäkestoiset tuotteet kuten kaurahiutaleet ja riisi merkitään erikseen, jotta et osta samaa uudelleen."
+    },
+    "f5": {
+      "title": "Kauden mukaan oletuksena",
+      "body": "Ravinta suosii sitä mikä on todella kaudessa asuinpaikassasi, automaattisesti, joka viikko."
+    },
+    "f6": {
+      "title": "Oikeat hinnat, 11 maata",
+      "body": "Reaaliaikaiset ruokakauppahinnat Isossa-Britanniassa, Irlannissa, Alankomaissa, Belgiassa, Sveitsissä, Saksassa, Italiassa, Puolassa, Bulgariassa, Norjassa ja Tanskassa. Muualla rehelliset arviot."
+    }
+  },
+  "pricing": {
+    "title": "Yksinkertainen hinnoittelu",
+    "monthly": "6,99 € / kk",
+    "yearly": "54,99 € / vuosi",
+    "yearlyNote": "(~4,58 €/kk)",
+    "cta": "Aloita ensimmäinen viikkosi",
+    "note": "Peruuta milloin vain."
+  },
+  "footer": {
+    "privacy": "Tietosuojaseloste",
+    "contact": "Ota yhteyttä",
+    "rights": "Kaikki oikeudet pidätetään."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "eyebrow": "DEIN PERSÖNLICHER ERNÄHRUNGSCOACH",
+    "headline": "Gut essen, egal wo du bist.",
+    "subheadline": "Sag Ravinta deine Ernährungsweise, dein Ziel und dein Budget — erhalte in Sekunden einen persönlichen Wochenplan, Rezepte und eine echte Einkaufsliste.",
+    "cta": "Ravinta holen"
+  },
+  "features": {
+    "title": "Gemacht, um wirklich genutzt zu werden",
+    "f1": { "title": "Wirklich persönlich", "body": "Ernährungsweise, Ziele, Allergien und Geschmack prägen jeden Plan — nicht aus einer generischen Liste gefiltert." },
+    "f2": { "title": "Makros, die passen", "body": "Jede Mahlzeit zeigt Protein, Kohlenhydrate und Fett — die Woche ergibt ein echtes Tagesziel basierend auf deinem Körper und Aktivitätslevel." },
+    "f3": { "title": "Budgetbewusst", "body": "Lege fest, was du ausgeben willst. Ravinta baut eine Woche, die dazu passt — und sagt Bescheid, wenn nicht." },
+    "f4": { "title": "Kennt deinen Vorrat", "body": "Vorratsartikel wie Haferflocken und Reis werden separat markiert, damit du nicht erneut kaufst, was du schon hast." },
+    "f5": { "title": "Standardmäßig saisonal", "body": "Ravinta bevorzugt automatisch, jede Woche, was an deinem Wohnort wirklich Saison hat." },
+    "f6": { "title": "Echte Preise, 11 Länder", "body": "Live-Lebensmittelpreise in Großbritannien, Irland, den Niederlanden, Belgien, der Schweiz, Deutschland, Italien, Polen, Bulgarien, Norwegen und Dänemark. Überall sonst ehrliche Schätzungen." }
+  },
+  "pricing": {
+    "title": "Einfache Preise",
+    "monthly": "6,99 € / Monat",
+    "yearly": "54,99 € / Jahr",
+    "yearlyNote": "(~4,58 €/Monat)",
+    "cta": "Starte deine erste Woche",
+    "note": "Jederzeit kündbar."
+  },
+  "footer": {
+    "privacy": "Datenschutzerklärung",
+    "contact": "Kontakt",
+    "rights": "Alle Rechte vorbehalten."
+  }
+}

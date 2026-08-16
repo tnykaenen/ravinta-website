@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "eyebrow": "DIN PERSONLIGA MATCOACH",
+    "headline": "Ät bra, var du än är.",
+    "subheadline": "Berätta för Ravinta om din kost, ditt mål och din budget — få en personlig veckoplan, recept och en riktig inköpslista på några sekunder.",
+    "cta": "Skaffa Ravinta"
+  },
+  "features": {
+    "title": "Byggd för att faktiskt användas",
+    "f1": { "title": "Verkligt personlig", "body": "Kostform, mål, allergier och smak formar varje plan — inte filtrerat från en generisk lista." },
+    "f2": { "title": "Makron som stämmer", "body": "Varje måltid visar protein, kolhydrater och fett — och veckan summerar till ett verkligt dagsmål baserat på din kropp och aktivitetsnivå." },
+    "f3": { "title": "Budgetmedveten", "body": "Ange vad du vill spendera. Ravinta bygger en vecka som passar — och säger till om den inte gör det." },
+    "f4": { "title": "Känner ditt skafferi", "body": "Skafferivaror som havregryn och ris markeras separat, så du slutar köpa det du redan har." },
+    "f5": { "title": "Säsongsbetonat som standard", "body": "Ravinta föredrar det som faktiskt är i säsong där du bor, automatiskt, varje vecka." },
+    "f6": { "title": "Riktiga priser, 11 länder", "body": "Realtidspriser i Storbritannien, Irland, Nederländerna, Belgien, Schweiz, Tyskland, Italien, Polen, Bulgarien, Norge och Danmark. Överallt annars, ärliga uppskattningar." }
+  },
+  "pricing": {
+    "title": "Enkel prissättning",
+    "monthly": "6,99 € / mån",
+    "yearly": "54,99 € / år",
+    "yearlyNote": "(~4,58 €/mån)",
+    "cta": "Starta din första vecka",
+    "note": "Avsluta när du vill."
+  },
+  "footer": {
+    "privacy": "Integritetspolicy",
+    "contact": "Kontakt",
+    "rights": "Alla rättigheter förbehållna."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "eyebrow": "VOTRE COACH ALIMENTAIRE PERSONNEL",
+    "headline": "Bien manger, où que vous soyez.",
+    "subheadline": "Indiquez à Ravinta votre régime, votre objectif et votre budget — recevez un plan de repas hebdomadaire personnalisé, des recettes et une vraie liste de courses en quelques secondes.",
+    "cta": "Essayer Ravinta"
+  },
+  "features": {
+    "title": "Conçu pour être vraiment utilisé",
+    "f1": { "title": "Vraiment personnalisé", "body": "Régime, objectifs, allergies et goûts façonnent chaque plan — pas filtré depuis une liste générique." },
+    "f2": { "title": "Des macros cohérents", "body": "Chaque repas indique protéines, glucides et lipides — votre semaine correspond à un objectif quotidien réel selon votre corps et votre niveau d'activité." },
+    "f3": { "title": "Respectueux du budget", "body": "Fixez ce que vous voulez dépenser. Ravinta construit une semaine qui s'y adapte — et vous prévient si ce n'est pas le cas." },
+    "f4": { "title": "Connaît vos placards", "body": "Les produits de base comme les flocons d'avoine ou le riz sont signalés à part, pour ne plus racheter ce que vous avez déjà." },
+    "f5": { "title": "De saison par défaut", "body": "Ravinta privilégie automatiquement, chaque semaine, ce qui est vraiment de saison là où vous vivez." },
+    "f6": { "title": "Vrais prix, 11 pays", "body": "Prix en temps réel au Royaume-Uni, en Irlande, aux Pays-Bas, en Belgique, en Suisse, en Allemagne, en Italie, en Pologne, en Bulgarie, en Norvège et au Danemark. Ailleurs, des estimations honnêtes." }
+  },
+  "pricing": {
+    "title": "Tarification simple",
+    "monthly": "6,99 € / mois",
+    "yearly": "54,99 € / an",
+    "yearlyNote": "(~4,58 €/mois)",
+    "cta": "Commencer votre première semaine",
+    "note": "Résiliable à tout moment."
+  },
+  "footer": {
+    "privacy": "Politique de confidentialité",
+    "contact": "Contact",
+    "rights": "Tous droits réservés."
+  }
+}
